@@ -57,6 +57,8 @@ Execute "Fake_Review_Detection.ipynb" cell by cell.
 ## References
 
 
-1. Combining bag-of-words and sentiment features of annual reports to predict abnormal stock returns: https://doi.org/10.1007/s00521-017-3194-2
-2. 
-Fake consumer review detection using deep neural networks integrating word embeddings and emotion mining: https://doi.org/10.1007/s00521-020-04757-2
+## Relevant Research Articles
+
+1. [Combining bag-of-words and sentiment features of annual reports to predict abnormal stock returns](https://doi.org/10.1007/s00521-017-3194-2)
+2. [Fake consumer review detection using deep neural networks integrating word embeddings and emotion mining](https://doi.org/10.1007/s00521-020-04757-2)
+
