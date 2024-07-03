@@ -54,8 +54,6 @@ Execute "Fake_Review_Detection.ipynb" cell by cell.
 	 	https://pypi.org/project/NRCLex/
 	2. NRC expanded: https://ieeexplore.ieee.org/document/7817108
 
-## References
-
 
 ## Relevant Research Articles
 
